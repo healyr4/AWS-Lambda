@@ -1,5 +1,5 @@
 # AWS-Lambda
-## Web PAge Function
+## Web Page Function
 
 This function shows the following in the browser:
 - The time of the invocation
